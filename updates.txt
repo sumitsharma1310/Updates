@@ -1,12 +1,12 @@
 ;aiu;
 
 [Update]
-Name = PollbookInstaller
+Name = VoterView Pollbook
 ProductVersion = 2.0.0
 URL = https://datafix-my.sharepoint.com/:x:/p/ssharma/EaSFnFd_JBBMquk2sS43eZUBrd-19g0KfC7M6iwubcibtw?download=1
-Size = 1322994292
-SHA256 = D8555F4F0C528CB1F09511ED90EA060042CEFFED5C3ACD73DCC2DF7A571EA457
-MD5 = 10291e6de0cb98722ba4fc6841f15671
+Size = 1322994069
+SHA256 = BF8DDFB8DE2F8EB7D4A8818544883697F00B0035A09DB2AFBB1DC2CB13FA8018
+MD5 = e566b1692a82e73ca86be9190caa61dd
 ServerFileName = PollbookInstaller.exe
 Flags = Critical
 RegistryKey = HKUD\Software\DataFix\VoterView Pollbook\Version
