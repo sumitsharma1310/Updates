@@ -3,14 +3,15 @@
 [Update]
 Name = VoterView Pollbook
 ProductVersion = 2.0.0
-URL = https://datafix-my.sharepoint.com/:x:/p/ssharma/EaSFnFd_JBBMquk2sS43eZUBrd-19g0KfC7M6iwubcibtw?download=1
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/EZYe-ajd7zRCtwRSKph6_FIBuNy84U-Pa_ItI1uF4DENeg?download=1
 Size = 1322994069
+ReleaseDate = 21/11/2025
 SHA256 = BF8DDFB8DE2F8EB7D4A8818544883697F00B0035A09DB2AFBB1DC2CB13FA8018
 MD5 = e566b1692a82e73ca86be9190caa61dd
 ServerFileName = PollbookInstaller.exe
 Flags = Critical
 RegistryKey = HKUD\Software\DataFix\VoterView Pollbook\Version
-Version = 2.0.0
+Version = 1.2.0.0
 Description = cool new features
 Feature = Many
 Enhancement = Best enhancement in the world
