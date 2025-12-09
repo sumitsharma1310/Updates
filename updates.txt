@@ -16,3 +16,6 @@ Description = cool new features
 Feature = Many
 Enhancement = Best enhancement in the world
 BugFix = Version Upgrade
+
+; run the EXE in quiet upgrade mode
+CommandLine    = /exenoui /qb! REBOOT=ReallySuppress
