@@ -2,7 +2,7 @@
 
 [Update]
 Name = VoterView Pollbook
-ProductVersion = 5.1.0.0
+ProductVersion = 5.1.1.0
 URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDgIpwe3LYhTIvWQt10Zp0TAROcz4i2wmZB2tU-U8_npTM?download=1
 Size = 1391073985
 ReleaseDate = 09/12/2025
@@ -19,6 +19,7 @@ BugFix = Version Upgrade
 
 ; run the EXE in quiet upgrade mode
 CommandLine    = /exenoui /qb! REBOOT=ReallySuppress
+
 
 
 
