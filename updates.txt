@@ -6,7 +6,7 @@ ProductVersion = 5.1.0.0
 URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDgIpwe3LYhTIvWQt10Zp0TAROcz4i2wmZB2tU-U8_npTM?download=1
 Size = 1391073985
 ReleaseDate = 09/12/2025
-SHA256 = b3d7ef2f53b6d8a516fe21305228ad718c5d774fedf34b1fd9366f9e8bc500b7
+SHA256 = B3D7EF2F53B6D8A516FE21305228AD718C5D774FEDF34B1FD9366F9E8BC500B7
 MD5 = BF9CAF9F5FB98A6E1CAB022BC22EEAF6
 ServerFileName = PollbookInstaller_5.1.0.0.exe
 Flags = Critical
@@ -19,6 +19,7 @@ BugFix = Version Upgrade
 
 ; run the EXE in quiet upgrade mode
 CommandLine    = /exenoui /qb! REBOOT=ReallySuppress
+
 
 
 
