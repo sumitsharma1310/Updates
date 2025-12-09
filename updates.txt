@@ -7,7 +7,7 @@ URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDgIpwe3LYhTIvWQt10Zp0TAR
 Size = 1391073985
 ReleaseDate = 09/12/2025
 SHA256 = b3d7ef2f53b6d8a516fe21305228ad718c5d774fedf34b1fd9366f9e8bc500b7
-MD5 = bf9caf9f5fb98a6e1cab022bc22eeaf6
+MD5 = BF9CAF9F5FB98A6E1CAB022BC22EEAF6
 ServerFileName = PollbookInstaller_5.1.0.0.exe
 Flags = Critical
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
@@ -19,6 +19,7 @@ BugFix = Version Upgrade
 
 ; run the EXE in quiet upgrade mode
 CommandLine    = /exenoui /qb! REBOOT=ReallySuppress
+
 
 
 
