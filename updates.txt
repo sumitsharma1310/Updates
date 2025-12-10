@@ -2,27 +2,20 @@
 
 [Update]
 Name = VoterView Pollbook
-ProductVersion = 5.1.1.0
-URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDgIpwe3LYhTIvWQt10Zp0TAROcz4i2wmZB2tU-U8_npTM?download=1
-Size = 1391073985
-ReleaseDate = 09/12/2025
-SHA256 = B3D7EF2F53B6D8A516FE21305228AD718C5D774FEDF34B1FD9366F9E8BC500B7
-MD5 = BF9CAF9F5FB98A6E1CAB022BC22EEAF6
-ServerFileName = PollbookInstaller_5.1.0.0.exe
-Flags = Critical
+NoGUICommandLineSwitch = /exenoui /qn
+ProductVersion = 5.2.0.0
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDk_qXt2Sh6TYsEt0xEwH7PAVJMF1xpXfO_ZX8MbLhL818?download=1
+Size = 1391047605
+ReleaseDate = 10/12/2025
+SHA256 = 0AA5DD052C8104F8869AC7ACF47DB64102B7B5F4D0548529EA44B9D2EC1BB9DA
+MD5 = 9425871f1604e5812d37a53597dfb15f
+ServerFileName = PollbookInstaller_5.2.0.0.exe
+Flags = Critical|NoCache|Advertises
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
-Version = 5.0.0
+Version = 5.2.0.0
+TargetOsMinVersion = 5.0.0.0
 Description = cool new features
-Feature = Many
+Feature = No changes
 Enhancement = Best enhancement in the world
-BugFix = Version Upgrade
-
-; run the EXE in quiet upgrade mode
-CommandLine    = /exenoui /qb! REBOOT=ReallySuppress
-
-
-
-
-
-
-
+Enhancement1 = user will be able to uninstall
+BugFix = Version changed
