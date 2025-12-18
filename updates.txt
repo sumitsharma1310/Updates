@@ -3,19 +3,20 @@
 [Update]
 Name = VoterView Pollbook
 NoGUICommandLineSwitch = /exenoui /qn
-ProductVersion = 5.2.0.0
+ProductVersion = 1.0.0.0
 URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDs75MfvDsdSrp2l_p08ZWBASgHEbWwfEEL5XVpIaRlyxs?download=1
 Size = 1391047605
 ReleaseDate = 10/12/2025
 SHA256 = 0AA5DD052C8104F8869AC7ACF47DB64102B7B5F4D0548529EA44B9D2EC1BB9DA
 MD5 = 9425871f1604e5812d37a53597dfb15f
-ServerFileName = PollbookInstaller_5.2.0.0.exe
+ServerFileName = PollbookInstaller_1.0.0.0.exe
 Flags = Critical|NoCache|Advertises
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
-Version = 5.2.0.0
-TargetOsMinVersion = 5.0.0.0
+Version = 1.0.0.0
+TargetOsMinVersion = 1.0.0.0
 Description = cool new features
 Feature = No changes
 Enhancement = Best enhancement in the world
 Enhancement1 = user will be able to uninstall
 BugFix = Version changed
+
