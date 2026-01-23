@@ -1,7 +1,7 @@
 ;aiu;
 
 [Update]
-Name = VoterView Pollbook
+Name = PollbookInstaller_1.1.0
 ProductVersion = 1.1.0
 URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQA-D0xgAAkGRotBHOQtZCvuAUko5Si2IEecmBKynaeJe7A?download=1
 Size = 1326060581
@@ -12,10 +12,3 @@ ServerFileName = PollbookInstaller_1.1.0.exe
 Flags = Critical|Sys64|NoCache|Os64
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
 Version = 1.1.0
-Description = This update improves installer reliability, reduces user-facing interruptions during installation and updates, and simplifies background service management to improve overall system stability.
-Feature = Improved update and installation experience
-Feature1 = Cleaner handling of background services during updates
-Feature2 = Simplified service architecture
-Enhancement = Reduced number of installation and update prompts
-Enhancement1 = Improved uninstall and cleanup behavior
-Enhancement2 = Updated Pollbook core logic and installer components
