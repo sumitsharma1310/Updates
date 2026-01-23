@@ -2,19 +2,20 @@
 
 [Update]
 Name = VoterView Pollbook
-NoGUICommandLineSwitch = /exenoui /qn
-ProductVersion = 1.0.0.0
-URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDs75MfvDsdSrp2l_p08ZWBASgHEbWwfEEL5XVpIaRlyxs?download=1
-Size = 1476076099
-ReleaseDate = 18/12/2025
-SHA256 = 1D9257F69A7517FE55A23A98837D344505C456089480D588A4ED959D91F92F15
-MD5 = 7a14ec429579b1f1b0f3056ff846883a
-ServerFileName = PollbookInstaller_1.0.0.0.exe
-Flags = Critical|NoCache|Advertises
+ProductVersion = 1.1.0
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQA-D0xgAAkGRotBHOQtZCvuAUko5Si2IEecmBKynaeJe7A?download=1
+Size = 1326060581
+ReleaseDate = 23/01/2026
+SHA256 = 84602BEE49262A89CD3938EB969E4FC548D939A7725CAEC60FB8EFD0DA019274
+MD5 = 68c34a097d8acf35c469c18ea411dc34
+ServerFileName = PollbookInstaller_1.1.0.exe
+Flags = Critical|Sys64|NoCache|Os64
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
-Version = 1.0.0.0
-TargetOsMinVersion = 1.0.0.0
-Description = Pollbook Installer New update
-Feature = No changes
-Enhancement = No Changes
-BugFix = Version changed
+Version = 1.1.0
+Description = This update improves installer reliability, reduces user-facing interruptions during installation and updates, and simplifies background service management to improve overall system stability.
+Feature = Improved update and installation experience
+Feature1 = Cleaner handling of background services during updates
+Feature2 = Simplified service architecture
+Enhancement = Reduced number of installation and update prompts
+Enhancement1 = Improved uninstall and cleanup behavior
+Enhancement2 = Updated Pollbook core logic and installer components
