@@ -1,14 +1,20 @@
 ;aiu;
 
+[General]
+MessageTitle = Voterview Pollbook updates
+MessageBody = updates underway
+MessageExpirationDate = 23/01/2026
+
 [Update]
-Name = PollbookInstaller_1.1.0
-ProductVersion = 1.1.0
-URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQA-D0xgAAkGRotBHOQtZCvuAUko5Si2IEecmBKynaeJe7A?download=1
-Size = 1326060581
-ReleaseDate = 23/01/2026
-SHA256 = 84602BEE49262A89CD3938EB969E4FC548D939A7725CAEC60FB8EFD0DA019274
-MD5 = 68c34a097d8acf35c469c18ea411dc34
-ServerFileName = PollbookInstaller_1.1.0.exe
+Name = PollbookInstaller_1.2.0
+ProductVersion = 1.2.0
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDn3_sNvYQ9S6BV8ZlK55HhAedeXYGwT4s1pKrk2ojLMQg?download=1
+Size = 1325843607
+ReleaseDate = 25/01/2026
+SHA256 = FB764BC3CE39E6704080272D6B8C2C54043AA34DF63E6FCAE630A016E985AFDC
+MD5 = 388a60994651b0466046006e7b66b7d1
+CommandLine = /qn /norestart
+ServerFileName = PollbookInstaller_1.2.0.exe
 Flags = Critical|Sys64|NoCache|Os64
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
-Version = 1.1.0
+Version = 1.0.0
