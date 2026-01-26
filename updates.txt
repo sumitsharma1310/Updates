@@ -8,11 +8,11 @@ MessageExpirationDate = 23/01/2026
 [Update]
 Name = PollbookInstaller_1.2.2
 ProductVersion = 1.2.2
-URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQBismXOBYk-Rb7TyMUXFt4qAY7lCSmqDFg4FSHDiSAK1hk?download=1
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQBy5iysa15lR7I-2jlgCMI3AeNWQuZXRVscV81o7gGFiQs?download=1
 Size = 1326770784
 ReleaseDate = 26/01/2026
-SHA256 = CE26143B28A18788F82871A5FE0BEE5340DFAC68B09467D29C925CC59F46D7F7
-MD5 = 3272959b40e5d9ddaba099f564cbcd2d
+SHA256 = 6269114FAFE6BBF8E67B62554B85C2BFEC88F5008C0AC5A241548193878E7B3B
+MD5 = eea32612ac55c163c3a2f4af1622337f
 CommandLine = /qb! /norestart
 ServerFileName = PollbookInstaller_1.2.2.exe
 Flags = Critical|Sys64|NoCache|Os64
