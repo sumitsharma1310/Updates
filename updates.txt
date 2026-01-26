@@ -6,7 +6,7 @@ MessageBody = updates underway
 MessageExpirationDate = 23/01/2026
 
 [Update]
-Name = PollbookInstaller_1.2.1
+Name = PollbookInstaller_1.2.2
 ProductVersion = 1.2.2
 URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQBismXOBYk-Rb7TyMUXFt4qAY7lCSmqDFg4FSHDiSAK1hk?download=1
 Size = 1326770784
