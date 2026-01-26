@@ -8,7 +8,7 @@ MessageExpirationDate = 23/01/2026
 [Update]
 Name = PollbookInstaller_1.2.0
 ProductVersion = 1.2.0
-URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQDn3_sNvYQ9S6BV8ZlK55HhAedeXYGwT4s1pKrk2ojLMQg?download=1
+URL = https://datafix-my.sharepoint.com/:u:/p/ssharma/IQA-shyytoHIRLpNlliiC0ztAXgj5GXgPZSguQ3dUPv1_o0?download=1
 Size = 1325843607
 ReleaseDate = 25/01/2026
 SHA256 = FB764BC3CE39E6704080272D6B8C2C54043AA34DF63E6FCAE630A016E985AFDC
