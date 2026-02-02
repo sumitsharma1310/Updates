@@ -14,6 +14,6 @@ ReleaseDate = 02/02/2026
 SHA256 = 614605F0ED67A97C47915568B8F5E75F111B82AF0D1F055259137FB8A530CC02
 MD5 = 9d939fef9b9d6debab317c1264d10cf6
 ServerFileName = Patch3.2.0-3.2.1.msp
-Flags = Critical|Sys64|NoCache|Os64|IsPatch
+Flags = Critical|Sys64|Os64
 RegistryKey = HKLM\Software\DataFix\VoterView Pollbook\Version
 Version = 3.2.1
